@@ -1,0 +1,15 @@
+uuid-spoof-fix: true
+no-permission: "&cYou don't have the permission."
+usage-premium:
+  - "&c/lkpremium <player> &7- Check if the player's account locked"
+  - "&7(premiumlock.premium)"
+player:
+  not-locked: "&cThe account of the player %name is not locked"
+  locked: "&aThe account of the player %name is locked"
+usage-lock:
+  - "&c/lock <player> [on/off] &7- Lock an account"
+  - "&7(premiumlock.lock)"
+protection:
+  add: "&aThe account of %name, now is locked"
+  remove: "&cThe account of %name, now isn't locked anymore"
+  not: "&4The player is not protected."
